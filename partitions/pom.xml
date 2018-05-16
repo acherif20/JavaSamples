@@ -2,14 +2,14 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.partitions</groupId>
 	<artifactId>partitions</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>partitions</name>
 
 	<scm>
 		<connection>scm:git:https://github.com/acherif20/JavaSamples</connection>
 		<url>scm:git:https://github.com/acherif20/JavaSamples</url>
 		<developerConnection>scm:git:https://github.com/acherif20/JavaSamples</developerConnection>
-		<tag>partitions-0.0.1</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<properties>
