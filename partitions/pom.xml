@@ -12,6 +12,8 @@
 		<developerConnection>scm:git:https://github.com/acherif20/JavaSamples</developerConnection>
 		<tag>partitions-0.0.1</tag>
 	</scm>
+	
+	<tag>HEAD</tag>
 
 	<properties>
 		<java.version>1.8</java.version>
